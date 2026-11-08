@@ -1,0 +1,2 @@
+# GitArchlinuxPruebaGabrielObandoUmariana
+practicaUniversitaria
